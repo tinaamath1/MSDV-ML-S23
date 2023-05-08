@@ -18,3 +18,14 @@ Seeing the same amount of clusters here, I did not not continue with the silhout
 
 ![](30.png)
 ![](30silhoutte.png)
+
+<h1> 50 Clusters and Silhoutte </h1>
+
+![](50.png)
+![](50silhoutte.png)
+
+At this point I am feeling good about 15 clusters as the product descriptions are grouping together logically. 
+
+<h1> 100 Clusters and Silhoutte </h1>
+
+![](100.png)
